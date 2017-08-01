@@ -1,0 +1,10 @@
+table Icon
+  Caption: FAQ
+  Command: firefox -new-window http://taggi.cse.unsw.edu.au/FAQ/ >/dev/null 2>&1
+  Icon: /usr/share/pixmaps/devhelp-debian.xpm
+  Width: 35
+  Height: 25
+  X: 8
+  Y: 210
+end
+

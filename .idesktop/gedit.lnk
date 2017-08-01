@@ -1,0 +1,10 @@
+table Icon
+  Caption: Gedit
+  Command: gedit
+  Icon: /usr/share/pixmaps/gedit-icon.xpm
+  Width: 35
+  Height: 25
+  X: 2
+  Y: 157
+end
+

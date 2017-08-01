@@ -1,0 +1,10 @@
+table Icon
+  Caption: Firefox
+  Command: firefox -new-window http://www.cse.unsw.edu.au/ >/dev/null 2>&1
+  Icon: /usr/share/pixmaps/iceweasel.xpm
+  Width: 35
+  Height: 25
+  X: 8
+  Y: 60
+end
+

@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <math.h>
+
+int main (int argc, char *argv[]) {
+
+	int k = 1;
+	int sum = 0;
+
+	while( k<16 ) {
+		sum = sum + pow(k, 3);
+		printf("%4d %4d\n", k, sum);
+		++k;
+}
+
+	return 0;
+}

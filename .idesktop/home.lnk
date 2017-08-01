@@ -1,0 +1,10 @@
+table Icon
+  Caption: Home
+  Command: nautilus --browser --no-desktop >/dev/null 2>&1
+  Icon: /usr/share/idesk/folder_home.xpm
+  Width: 35
+  Height: 25
+  X: 8
+  Y: 10
+end
+

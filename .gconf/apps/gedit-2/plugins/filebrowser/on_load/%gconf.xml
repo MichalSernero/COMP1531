@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="virtual_root" mtime="1477659319" type="string">
+		<stringvalue>file:///tmp_amd/kamen/export/kamen/3/z5134069/lab5</stringvalue>
+	</entry>
+	<entry name="root" mtime="1477659319" type="string">
+		<stringvalue>file:///</stringvalue>
+	</entry>
+	<entry name="tree_view" mtime="1477659319" type="bool" value="true"/>
+</gconf>

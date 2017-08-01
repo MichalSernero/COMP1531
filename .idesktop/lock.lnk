@@ -1,0 +1,10 @@
+table Icon
+  Caption: Lock
+  Command: xlock -dpmsoff 1 -startCmd "xset dpms force off" -mode blank
+  Icon: /usr/share/pixmaps/mew/mew-lock.xpm
+  Width: 25
+  Height: 25
+  X: 8
+  Y: 260
+end
+

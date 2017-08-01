@@ -1,0 +1,122 @@
+/etc/gdm/Xsession.gdm: Beginning session setup...
+localuser:z5134069 being added to access control list
+Sourcing /import/kamen/3/z5134069/.profile ..
+Running: x-session-manager
+/usr/bin/startxfce4: X server already running on display :0
+ssh-agent is already running; starting gpg-agent without ssh support
+gpg-agent[28270]: directory `/import/kamen/3/z5134069/.gnupg' created
+gpg-agent[28270]: directory `/import/kamen/3/z5134069/.gnupg/private-keys-v1.d' created
+gpg-agent[28271]: gpg-agent (GnuPG) 2.0.19 started
+xfdesktop[28291]: starting up
+xfce4-settings-helper: Another instance is already running. Leaving...
+
+(xfwm4:28285): GLib-CRITICAL **: g_str_has_prefix: assertion `prefix != NULL' failed
+
+(xfce4-settings-helper:28313): GLib-CRITICAL **: g_str_has_prefix: assertion `prefix != NULL' failed
+
+(xfce4-settings-helper:28313): xfce4-settings-helper-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:28285): xfwm4-WARNING **: The property '/general/double_click_distance' of type int is not supported
+
+** (gnome-settings-daemon:28370): WARNING **: You can only run one xsettings manager at a time; exiting
+
+** (gnome-settings-daemon:28370): WARNING **: Unable to start xsettings manager: Could not initialize xsettings manager.
+
+** (gnome-settings-daemon:28370): WARNING **: Grab failed for some keys, another application may already have access the them.
+
+** (gnome-settings-daemon:28370): WARNING **: Clipboard manager is already running.
+Initializing nautilus-gdu extension
+
+(xfdesktop:28291): GLib-GIO-CRITICAL **: g_loadable_icon_load: assertion `G_IS_LOADABLE_ICON (icon)' failed
+
+(xfdesktop:28291): GLib-GIO-CRITICAL **: g_loadable_icon_load: assertion `G_IS_LOADABLE_ICON (icon)' failed
+
+(xfdesktop:28291): GLib-GIO-CRITICAL **: g_loadable_icon_load: assertion `G_IS_LOADABLE_ICON (icon)' failed
+
+(xfdesktop:28291): GLib-GIO-CRITICAL **: g_loadable_icon_load: assertion `G_IS_LOADABLE_ICON (icon)' failed
+
+(xfdesktop:28291): GLib-GIO-CRITICAL **: g_loadable_icon_load: assertion `G_IS_LOADABLE_ICON (icon)' failed
+
+(xfdesktop:28291): GLib-GIO-CRITICAL **: g_loadable_icon_load: assertion `G_IS_LOADABLE_ICON (icon)' failed
+p11-kit: invalid config filename, will be ignored in the future: /etc/pkcs11/modules/gnome-keyring-module
+No bp log location saved, using default.
+[000:000] Cpu: 6.58.9, x4, 3600Mhz, 7948MB
+[000:000] Computer model: Not available
+[000:000] Browser XEmbed support present: 1
+[000:000] Browser toolkit is Gtk2.
+[000:000] Using Gtk2 toolkit
+No bp log location saved, using default.
+[000:000] Cpu: 6.58.9, x4, 3600Mhz, 7948MB
+[000:000] Computer model: Not available
+[000:018] Warning(optionsfile.cc:30): Load: Could not open file, err=2
+[000:018] No bp log location saved, using default.
+[000:020] Cpu: 6.58.9, x4, 3600Mhz, 7948MB
+[000:020] Computer model: Not available
+[000:020] Browser XEmbed support present: 1
+[000:020] Browser toolkit is Gtk2.
+[000:020] Using Gtk2 toolkit
+[000:016] Warning(optionsfile.cc:30): Load: Could not open file, err=2
+[000:016] No bp log location saved, using default.
+[000:018] Cpu: 6.58.9, x4, 3600Mhz, 7948MB
+[000:019] Computer model: Not available
+java version "1.7.0_131"
+OpenJDK Runtime Environment (IcedTea 2.6.9) (7u131-2.6.9-2~deb7u1)
+OpenJDK Server VM (build 24.131-b00, mixed mode)
+p11-kit: invalid config filename, will be ignored in the future: /etc/pkcs11/modules/gnome-keyring-module
+No bp log location saved, using default.
+[000:000] Cpu: 6.58.9, x4, 3600Mhz, 7948MB
+[000:000] Computer model: Not available
+[000:000] Browser XEmbed support present: 1
+[000:000] Browser toolkit is Gtk2.
+[000:000] Using Gtk2 toolkit
+No bp log location saved, using default.
+[000:000] Cpu: 6.58.9, x4, 3600Mhz, 7948MB
+[000:000] Computer model: Not available
+[000:016] Warning(optionsfile.cc:30): Load: Could not open file, err=2
+[000:016] No bp log location saved, using default.
+[000:018] Cpu: 6.58.9, x4, 3600Mhz, 7948MB
+[000:018] Computer model: Not available
+[000:018] Browser XEmbed support present: 1
+[000:018] Browser toolkit is Gtk2.
+[000:018] Using Gtk2 toolkit
+[000:014] Warning(optionsfile.cc:30): Load: Could not open file, err=2
+[000:014] No bp log location saved, using default.
+[000:016] Cpu: 6.58.9, x4, 3600Mhz, 7948MB
+[000:016] Computer model: Not available
+java version "1.7.0_131"
+OpenJDK Runtime Environment (IcedTea 2.6.9) (7u131-2.6.9-2~deb7u1)
+OpenJDK Server VM (build 24.131-b00, mixed mode)
+p11-kit: invalid config filename, will be ignored in the future: /etc/pkcs11/modules/gnome-keyring-module
+No bp log location saved, using default.
+[000:000] Cpu: 6.58.9, x4, 3600Mhz, 7948MB
+[000:001] Computer model: Not available
+[000:001] Browser XEmbed support present: 1
+[000:001] Browser toolkit is Gtk2.
+[000:001] Using Gtk2 toolkit
+No bp log location saved, using default.
+[000:000] Cpu: 6.58.9, x4, 3600Mhz, 7948MB
+[000:000] Computer model: Not available
+[000:019] Warning(optionsfile.cc:30): Load: Could not open file, err=2
+[000:019] No bp log location saved, using default.
+[000:021] Cpu: 6.58.9, x4, 3600Mhz, 7948MB
+[000:021] Computer model: Not available
+[000:021] Browser XEmbed support present: 1
+[000:021] Browser toolkit is Gtk2.
+[000:021] Using Gtk2 toolkit
+[000:016] Warning(optionsfile.cc:30): Load: Could not open file, err=2
+[000:016] No bp log location saved, using default.
+[000:017] Cpu: 6.58.9, x4, 3600Mhz, 7948MB
+[000:018] Computer model: Not available
+java version "1.7.0_131"
+OpenJDK Runtime Environment (IcedTea 2.6.9) (7u131-2.6.9-2~deb7u1)
+OpenJDK Server VM (build 24.131-b00, mixed mode)
+p11-kit: invalid config filename, will be ignored in the future: /etc/pkcs11/modules/gnome-keyring-module
+
+(xfce4-panel:28287): GLib-GIO-CRITICAL **: g_loadable_icon_load: assertion `G_IS_LOADABLE_ICON (icon)' failed
+
+(xfce4-panel:28287): GLib-GIO-CRITICAL **: g_loadable_icon_load: assertion `G_IS_LOADABLE_ICON (icon)' failed
+
+(xfce4-panel:28287): GLib-GIO-CRITICAL **: g_loadable_icon_load: assertion `G_IS_LOADABLE_ICON (icon)' failed
+[28986:28986:0801/123142:ERROR:logging.h(808)] Failed to call method: org.freedesktop.DBus.ObjectManager.GetManagedObjects: object_path= /: org.freedesktop.DBus.Error.ServiceUnknown: The name org.bluez was not provided by any .service files
+[28986:28986:0801/123142:ERROR:logging.h(808)] Failed to call method: org.freedesktop.DBus.ObjectManager.GetManagedObjects: object_path= /: org.freedesktop.DBus.Error.ServiceUnknown: The name org.bluez was not provided by any .service files
+Fontconfig error: Cannot load default config file

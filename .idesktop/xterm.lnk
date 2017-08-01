@@ -1,0 +1,10 @@
+table Icon
+  Caption: Xterm
+  Command: xterm
+  Icon: /usr/share/pixmaps/terminal.xpm
+  Width: 30
+  Height: 25
+  X: 8
+  Y: 110
+end
+
